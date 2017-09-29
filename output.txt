@@ -1,0 +1,1 @@
+null doublylinkedlist.Node@42a57993 36 doublylinkedlist.Node@75b84c92doublylinkedlist.Node@42a57993 doublylinkedlist.Node@75b84c92 56 doublylinkedlist.Node@6bc7c054doublylinkedlist.Node@75b84c92 doublylinkedlist.Node@6bc7c054 67 null
